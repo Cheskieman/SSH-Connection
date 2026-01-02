@@ -40,6 +40,22 @@ Source type: Custom
 
 Source: <your-private-IPv4-address>/32
 
+Select at the bottom Launch Instance
+
+Select the first of two instances created
+
+Select at the top right Connect Button
+
+Select the SSH client tab
+
+Copy and paste the following commands into an elevated (Administrator) PowerShell terminal to install the OpenSSH Client.
+
+* Run the key generation command
+
+* Press enter for all prompts (default location , no passphrase)
+
+* Copy the content of the newly created public key from output of following command
+
 
 
 
