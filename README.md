@@ -64,6 +64,21 @@ Copy and paste the following commands into an elevated (Administrator) PowerShel
 
 * Copy the content of the newly created public key from output of following command
 
+* Select the second EC2 Instance Created
+
+* Scroll down and copy the Public IPV4 address
+
+* Open a new PowerShell terminal and run the following command(s) before connecting via SSH
+
+* Open authorized_keys file and insert the public key copied from the first-created instance
+
+* Save and exit (Ctrl+O then Enter to save, Ctrl+X to exit)
+
+* Set the correct permissions
+
+* Go back to Server A & connect to Server B using its Private IP
+  
+
 
 
 
