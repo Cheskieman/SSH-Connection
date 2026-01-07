@@ -21,37 +21,37 @@
 
 * Search and select EC2 from AWS searchbar
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Search and Select EC2 from aws searchbar.png" alt="Select EC2 from AWS Searchbar" />  
 </p>  
 
 * Select Instances from left-handed navigation panel
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Select Instances from left handed navigation panel.png" alt="Select Instancews from left hand navigation panel" />  
 </p>  
 
 * Select from top right Lauch instances button
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Select from top right Lauch instances button.png" alt="Select Launch Instance Button top right" />  
 </p>  
 
 * Give a name to the EC2 Instance
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Give a name to your EC2.png" alt="Give EC2 Instance a name" />  
 </p>  
 
 * Select for AMI Ubuntu
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Give a name to your EC2.png" alt="Select Ubuntu AMI" />  
 </p>  
 
 * Select Keypair
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Select Keypair.png" alt="Select Keypair" />  
 </p>  
 
 * Select at the bottom Launch Instance
 <p align="center">  
-  <img src="resources/EC2INSTANCESETUPSELECTEC2FROMDASHBOARD.png" alt="Select EC2 from Dashboard" />  
+  <img src="resources/Select at bottom launch instance.png" alt="Select Launch Instance at bottom" />  
 </p>  
 
 * Select the recently created instance
