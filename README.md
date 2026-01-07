@@ -3,7 +3,18 @@
 ## A complete step by step guide on how to connect two servers via SSH Connection
 
 
-### This project will demonstrate how to 
+### This project will demonstrate how to:
+
+* Set up two EC2 instances
+  
+* Generate and copy an SSH key pair on the first EC2 instance
+  
+* Authorize the SSH key pair on the second EC2 instance
+   
+* Access the second EC2 instance via SSH from the first EC2 instance  
+
+
+
 
 
 #### Step by Step Instruction guidance
@@ -26,37 +37,37 @@
 
 * Scroll down and copy the Private IPv4 address
 
-Repeat the EC2 instance setup from the previous steps with the following modifications:
+**Repeat the EC2 instance setup from the previous steps with the following modifications:**
 
-Assign the instance a different name than the first EC2 instance.
+* Assign the instance a different name than the first EC2 instance.
 
-Scroll down to Network Settings and select Edit.
+* Scroll down to Network Settings and select Edit.
 
-Add a security group rule with the following values:
+* Add a security group rule with the following values:
 
-Type: SSH
+**Type: SSH**
 
-Source Type: My IP
+**Source Type: My IP**
 
-Select the Add security group rule button
+* Select the Add security group rule button
 
-Add a security group rule with the following values:
+* Add a security group rule with the following values:
 
-Type: SSH
+**Type: SSH**
 
-Source type: Custom
+**Source type: Custom**
 
-Source: <your-private-IPv4-address>/32
+**Source: <your-private-IPv4-address>/32**
 
-Select at the bottom Launch Instance
+* Select at the bottom Launch Instance
 
-Select the first of two instances created
+* Select the first of two instances created
 
-Select at the top right Connect Button
+* Select the Connect Button from the top right 
 
-Select the SSH client tab
+* Select the SSH client tab
 
-Copy and paste the following commands into an elevated (Administrator) PowerShell terminal to install the OpenSSH Client.
+* Run the following command in PowerShell to enable SSH
 
 * Run the key generation command
 
