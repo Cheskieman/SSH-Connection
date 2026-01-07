@@ -73,7 +73,7 @@
 
 * Scroll down to Network Settings and select Edit.
 <p align="center">  
-  <img src="resources/Assign the instance a different name than the first ec2 instance.png" alt="Select Edit" />  
+  <img src="resources/Scroll down to Network Settings and select Edit..png" alt="Select Edit" />  
 </p>  
 
 * Add a security group rule with the following values:  
@@ -84,7 +84,7 @@
 
 * Select the Add security group rule button
 <p align="center">  
-  <img src="resources/Assign the instance a different name than the first ec2 instance.png" alt="Add Security Group button" />  
+  <img src="resources/Select the add securty group rule button.png" alt="Add Security Group button" />  
 </p>  
 
 * Add a security group rule with the following values:
