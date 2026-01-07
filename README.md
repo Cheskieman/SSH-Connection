@@ -24,13 +24,21 @@
 
 * Select the recently created instance
 
-* Scroll doewn and copy the Private IPv4 address
+* Scroll down and copy the Private IPv4 address
 
 Repeat the EC2 instance setup from the previous steps with the following modifications:
 
 Assign the instance a different name than the first EC2 instance.
 
 Scroll down to Network Settings and select Edit.
+
+Add a security group rule with the following values:
+
+Type: SSH
+
+Source Type: My IP
+
+Select the Add security group rule button
 
 Add a security group rule with the following values:
 
