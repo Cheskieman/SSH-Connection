@@ -184,7 +184,7 @@
 
 
 
-##### ##### Contribution Policy
+##### Contribution Policy
 
 This project is not accepting external contributions, including pull requests or feature requests.
 
