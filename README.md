@@ -17,7 +17,7 @@
 
 
 
-#### Step by Step Instruction guidance
+#### Step-by-Step Instruction Guidance
 
 * Search and select EC2 from AWS searchbar
 <p align="center">  
